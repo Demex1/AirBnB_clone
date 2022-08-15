@@ -8,5 +8,5 @@ A command interpreter is the part of a computer operating system that understand
 
 ## Authors
 
-- [@Ramazhambamurendi](https://www.github.com/Raydee97)
+- [@komolafedemilade](https://www.github.com/demex1)
 
